@@ -1,1 +1,2 @@
 # COMPONENTE_PR-CTICO2 
+Renombrar a README.md
