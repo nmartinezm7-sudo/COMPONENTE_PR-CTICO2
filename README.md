@@ -1,2 +1,2 @@
-# COMPONENTE_PR-CTICO2 
+
 
